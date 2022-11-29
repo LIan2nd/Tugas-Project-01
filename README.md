@@ -1,1 +1,1 @@
-# Tugas-Project-01
+# Repository ini untuk pengumpulan tugas proyek di semester 1
