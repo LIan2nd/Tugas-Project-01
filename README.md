@@ -1,1 +1,1 @@
-# Repository ini untuk pengumpulan tugas proyek di semester 1
+# Repository ini untuk pengumpulan semua tugas projek Pemrograman Web
